@@ -1,0 +1,8 @@
+{
+  "name": "EchoSpeak - AI 영어 발음 교정 및 섀도잉 코치",
+  "description": "실시간 음성 인식과 Gemini AI 발음 분석을 통해 영어 문장을 따라 말하고 발음을 교정하며 매일 학습 통계를 기록하는 개인 맞춤형 스피킹 트레이너",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
